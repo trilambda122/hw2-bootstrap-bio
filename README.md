@@ -2,11 +2,13 @@
 
 ## DESCRIPTION
 ---
-Shane Schilling BIO page 
-includes aboutme in the index.html file
-contact submission for in contact.html
-portfolio pictures in portfolio.html
+### Shane Schilling BIO page 
+- Includes aboutme in the index.html file
+- Contact submission for in contact.html
+- Portfolio pictures in portfolio.html
 
+Site can be found at [SCS bio page](https://trilambda122.github.io/hw2-bootstrap-bio/)
+  
 ## TODO
 ---
 - check for left and right margins on sm and larger screens
