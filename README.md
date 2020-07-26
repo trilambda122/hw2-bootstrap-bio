@@ -11,8 +11,8 @@ Site can be found at [SCS bio page](https://trilambda122.github.io/hw2-bootstrap
   
 ## TODO
 ---
-- check for left and right margins on sm and larger screens
-- use html validation service 
-- find this readme file
-- put link to index.html file on logo
-- make social media links to my accounts
+- Check for left and right margins on sm and larger screens
+- Use html validation service 
+- Finish this readme file
+- Put link to index.html file on logo
+*X Make social media links to my accounts*
