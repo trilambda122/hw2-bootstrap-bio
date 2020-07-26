@@ -2,6 +2,10 @@
 
 ## DESCRIPTION
 ---
+Shane Schilling BIO page 
+includes aboutme in the index.html file
+contact submission for in contact.html
+portfolio pictures in portfolio.html
 
 ## TODO
 ---
