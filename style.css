@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("imgs/double-bubble-outline.png");
+}
+
+#logo_pic {
+    width: 10%;
+    height: 10%;
+    padding: 3px;
+    border: white;
+    border-style: solid;
+    margin-right: 20px;
+}
+
+#main-container {
+    padding: 24px;
+}
+
+#about_me {
+    font-family: 'Mulish', sans-serif;
+}
+
+#profile_pic {
+    float: left;
+    margin: 10px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: gray;
+    text-align: center;
+}
+
+#footer_imgs {}
