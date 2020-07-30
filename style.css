@@ -3,6 +3,21 @@ body {
     background-image: url("imgs/double-bubble-outline.png");
 }
 
+#nav_bar {
+    font-size: 125%;
+}
+
+#name {
+    font-size: 125%;
+}
+
+
+/* #logo_anchor {
+    border: white;
+    border: solid;
+    text-decoration: none;
+}
+
 #logo_pic {
     width: 10%;
     height: 10%;
@@ -10,7 +25,7 @@ body {
     border: white;
     border-style: solid;
     margin-right: 20px;
-}
+} */
 
 #main-container {
     padding: 24px;

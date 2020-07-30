@@ -14,28 +14,25 @@
 <body>
 
     <!-- NAV BAR -->
-    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
-        <img src="imgs/scs.png" alt="logo" id="logo_pic">
-        <a class="navbar-brand" href="index.html">Shane C. Schilling</a>
-
-        <!-- Nav bar toggler to show button when page collapses -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark" id="nav_bar">
+        <a href="index.html" class="navbar-brand">
+            <img src="imgs/scs.png" height="28" alt="SCS Logo">
+        </a>
+        <a class="navbar-brand" href="index.html" id="name">Shane C. Schilling</a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
         </button>
-        <!--  -->
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="portfolio.html">Portfolio <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="index.html">About<span class="sr-only">(current)</span></a>
-                </li>
 
-            </ul>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav">
+
+            </div>
+            <div class="navbar-nav ml-auto">
+                <a href="contact.html" class="nav-item nav-link active">Contact</a>
+                <a href="portfolio.html" class="nav-item nav-link">Portfolio</a>
+                <a href="index.html" class="nav-item nav-link">About</a>
+                <!-- <a href="#" class="nav-item nav-link">Login</a> -->
+            </div>
         </div>
     </nav>
     <!-- END NAV BAR -->
