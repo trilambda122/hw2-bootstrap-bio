@@ -11,34 +11,32 @@ body {
     font-size: 125%;
 }
 
-
-/* #logo_anchor {
-    border: white;
+.profile_pic {
     border: solid;
-    text-decoration: none;
+    border-color: black;
 }
 
-#logo_pic {
-    width: 10%;
-    height: 10%;
-    padding: 3px;
-    border: white;
-    border-style: solid;
-    margin-right: 20px;
-} */
 
-#main-container {
-    padding: 24px;
-}
+
+
+
+/* added google font of Mulish for the about me text */
 
 #about_me {
     font-family: 'Mulish', sans-serif;
 }
 
+
+/* floating the profile pictures and add a gray border*/
+
 #profile_pic {
     float: left;
-    margin: 10px;
+    border: solid;
+    border-color: grey
 }
+
+
+/* setup for the footer using white background to make it opaic and to cneter the solical meida icons */
 
 #footer {
     position: fixed;
