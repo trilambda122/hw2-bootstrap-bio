@@ -16,8 +16,25 @@ body {
     border-color: black;
 }
 
+.portfolio-img {
+    transition: box-shadow .3s;
+    width: 75%;
+    height: auto;
+    margin: 15px;
+    border-radius: 10px;
+    border: 5px solid #ccc;
+    background: #fff;
+    float: left;
+}
 
+.social-imgs {
+    width: 25px;
+    height: auto;
+}
 
+.portfolio-img:hover {
+    box-shadow: 0 0 50px rgba(27, 56, 87, 0.2);
+}
 
 
 /* added google font of Mulish for the about me text */
@@ -46,4 +63,9 @@ body {
     background-color: white;
     color: gray;
     text-align: center;
+}
+
+#contact-info {
+    text-align: left;
+    font-size: small;
 }
